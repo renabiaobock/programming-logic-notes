@@ -16,3 +16,11 @@ URL: https://www.youtube.com/watch?v=iF2MdbrTiBM&ab_channel=DevAprender%7CJhonat
     * Estágio 3 - Validação da Solução;
     * Estágio 4 - Desenvolvimento e Testes;
     * Estágio 5 - Implantação e Entrega.
+
+
+## Aula 03 - O problema que todo iniciante enfrenta.
+
+1. escrever codigo lentamente;
+2. resolver os mesmos problemas em situaçãoes diferentes;
+3. se achar incapaz/insuficiente;
+4. gradualmente conseguir solucionar problemas mais facilmente.
