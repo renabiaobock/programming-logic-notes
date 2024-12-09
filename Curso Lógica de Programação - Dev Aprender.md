@@ -61,3 +61,11 @@ Sempre que queremos montar uma sequência de passos necessários para solucionar
 3. Quais são as restrições deste problema?
 4. Qual é o resultado esperado?
 5. Qual é a sequência de passos a ser feita para chegar ao resultado esperado?
+
+
+## Aula 06 - 4 conceitos obrigatórios para ser capaz de resolver problemas.
+
+1. Variáveis;
+2. Condicionais;
+3. Laços de repetição;
+4. Coleções.
