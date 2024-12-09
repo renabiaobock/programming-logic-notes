@@ -60,4 +60,4 @@ Sempre que queremos montar uma sequência de passos necessários para solucionar
 2. O que devo fazer com estes dados?
 3. Quais são as restrições deste problema?
 4. Qual é o resultado esperado?
-5. Qual é a sequência de passos a ser feitas para chegar ao resultado esperado?
+5. Qual é a sequência de passos a ser feita para chegar ao resultado esperado?
