@@ -182,3 +182,10 @@ while acertou = false
     else
         "Você chutou um valor invalido"
 ```
+
+
+## Aula 08 - Criando soluções com fluxogramas
+
+Fluxogramas são uma representação visual gráfica de um algorítmo.
+
+![Legenda Fluxogramas](legenda_fluxogramas.png)
