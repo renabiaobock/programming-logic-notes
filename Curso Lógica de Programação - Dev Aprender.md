@@ -138,3 +138,47 @@ loop de 1 a numero
     fatorial = fatorial * numero
 print fatorial
 ```
+
+### Exemplo 4 - Some os valores de uma lista
+1. Quais são os dados de entrada necessários?
+* lista com os valores a serem somados
+2. O que devo fazer com estes dados?
+* somar cada numero ao numero anterior ate somar todos os numeros da lista
+3. Quais são as restrições deste problema?
+* apenas os valores da lista devem ser adicionados
+4. Qual é o resultado esperado?
+* é esperado que o valor total da soma dos numeros da lista seja exibido
+5. Qual é a sequência de passos a ser feita para chegar ao resultado esperado?
+```
+input lista
+total = 0
+loop numero in lista:
+    total = total + numero
+print soma
+```
+
+### Exemplo 5 - Chute o número
+1. Quais são os dados de entrada necessários?
+* numero aleatorio
+2. O que devo fazer com estes dados?
+* comparar ao numero da tentativa do usuario e informar se acertou ou nao
+3. Quais são as restrições deste problema?
+* as tentativas devem ser de numeros entre 1 e 10
+4. Qual é o resultado esperado?
+* apos cada tentativa, deve ser exibido na tela uma das seguintes mensagens: "O chute é maior que o valor gerado", "O chute é menor que o valor gerado", "Acertou!"
+5. Qual é a sequência de passos a ser feita para chegar ao resultado esperado?
+```
+input valor_aleatorio
+acertou = false
+while acertou = false
+    input chute
+    if chute = valor_aleatorio
+        print "Acertou!"
+        acertou = true
+    if chute > valor_aleatorio
+        "O chute é maior que o valor gerado"
+    if chute < valor_aleatorio
+        "O chute é menor que o valor gerado"
+    else
+        "Você chutou um valor invalido"
+```
