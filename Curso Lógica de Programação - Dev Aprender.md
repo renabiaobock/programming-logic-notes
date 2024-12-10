@@ -123,7 +123,7 @@ else
 1. Quais são os dados de entrada necessários?
 * número
 2. O que devo fazer com estes dados?
-* capós receber um número devo o multiplicar por todos os seus antecessores e exibir o resultado
+* após receber um número devo o multiplicar por todos os seus antecessores e exibir o resultado
 3. Quais são as restrições deste problema?
 * deve ser um número inteiro e positivo
 4. Qual é o resultado esperado?
