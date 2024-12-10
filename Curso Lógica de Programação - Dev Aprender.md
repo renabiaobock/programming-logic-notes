@@ -69,3 +69,72 @@ Sempre que queremos montar uma sequência de passos necessários para solucionar
 2. Condicionais;
 3. Laços de repetição;
 4. Coleções.
+
+
+## Aula 07 - Criando soluções em Pseudocódigo do básico ao avançado
+
+### Exemplo 1 - Pseudocódigo (com uso de variáveis) - Valor por hora
+
+Crie um programa que retorne o valor hora de um funcionário com base no seu salário mensal e horas trabalhadas por mês.
+
+1. Quais são os dados de entrada necessários?
+* salário do mês
+* horas trabalhadas no mês
+2. O que devo fazer com estes dados?
+* devo utilizar estes dados para calcular o valor hora que o funcionario recebe
+3. Quais são as restrições deste problema?
+* os valores devem ser entregues somente no formato de salário por hora
+4. Qual é o resultado esperado?
+* o valor hora que um funcionário recebe
+5. Qual é a sequência de passos a ser feita para chegar ao resultado esperado?
+```
+salario_do_mes = input float
+horas_trabalhadas_no_mes = input int
+valor_hora = salario_do_mes / horas_trabalhadas_no_mes
+print valor_hora
+```
+
+### Exemplo 2 - Exibir o maior dos dois números
+
+1. Quais são os dados de entrada necessários?
+* primeiro número
+* segundo número
+2. O que devo fazer com estes dados?
+* comparar os dois números para exibir qual é o maior 
+3. Quais são as restrições deste problema?
+* é possivel comparar apenas números
+* preciso possuir dois números para que a comparação seja realizada
+4. Qual é o resultado esperado?
+* retornar qual é o maior dos dois números para o usuário
+5. Qual é a sequência de passos a ser feita para chegar ao resultado esperado?
+```
+input primeiro_numero
+input segundo_numero
+if primeiro_numero > segundo_numero
+    print "o primeiro valor é maior"
+elif segundo_numero > primeiro_numero
+    print "o segundo valor é maior"
+else
+    print "os números são iguais"
+```
+
+### Exemplo 3 - Fatorial de um número
+
+1. Quais são os dados de entrada necessários?
+* número
+2. O que devo fazer com estes dados?
+* capós receber um número devo o multiplicar por todos os seus antecessores e exibir o resultado
+3. Quais são as restrições deste problema?
+* deve ser um número inteiro e positivo
+4. Qual é o resultado esperado?
+* é esperado que o fatorial do número recebido seja exibido
+5. Qual é a sequência de passos a ser feita para chegar ao resultado esperado?
+```
+input numero
+if numero < 0:
+    print "digite apenas números positivos"
+fatorial = 1
+loop de 1 a numero
+    fatorial = fatorial * numero
+print fatorial
+```
