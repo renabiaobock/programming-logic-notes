@@ -189,3 +189,9 @@ while acertou = false
 Fluxogramas são uma representação visual gráfica de um algorítmo.
 
 ![Legenda Fluxogramas](legenda_fluxogramas.png)
+
+
+## Aula 09 - Seu primeiro programa em Python
+
+1. Exemplo de variáveis na prática com python (aula1.py)
+2. Exemplo de condicionais na prática com python (aula2.py)
