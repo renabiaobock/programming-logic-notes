@@ -195,3 +195,5 @@ Fluxogramas são uma representação visual gráfica de um algorítmo.
 
 1. Exemplo de variáveis na prática com python (aula1.py)
 2. Exemplo de condicionais na prática com python (aula2.py)
+3. Exemplo de coleções na prática com python (aula3.py)
+4. Exemplo de laços de repetição na prática com python (aula4.py)
